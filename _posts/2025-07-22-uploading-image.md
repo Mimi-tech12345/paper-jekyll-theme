@@ -18,7 +18,7 @@ Let's work !
 
 This is how to upload the image from the internet!
 
-![test_kitten](https://Mimi-tech12345.github.io/paper-jekyll-theme/assets/images/golden-retriever-gallery-2.jpg)
+![test_kitten](https://github.com/Mimi-tech12345/paper-jekyll-theme/blob/f569df54964cfadc0e4e7c5c3ed3d42f380a36b4/assets/images/test_kitten.jpeg)
 
 This is how to upload from your assets (your local image)
 
