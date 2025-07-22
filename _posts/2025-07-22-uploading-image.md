@@ -14,7 +14,7 @@ Let's work !
 
 ## Practice
 
-![test_kitten_from_internet](https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+![Golden Retriever](https://cdn.prod.website-files.com/651577594cea61d37cb19467/65b823fc36f0844f29fa704f_Golden%20Retriever.jpg)
 
 This is how to upload the image from the internet!
 
